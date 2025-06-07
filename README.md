@@ -1,10 +1,5 @@
 
-<style>
-  img {
-    margin: 5px;
-    vertical-align: middle;
-  }
-</style>
+
 <h1></h1>
 <h3>🧊I make simple trainers | cheats | websites | security tools.</h3>
 <h1></h1>
